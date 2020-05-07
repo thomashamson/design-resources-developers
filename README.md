@@ -3,6 +3,7 @@
 
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
+- [Icons](#icons)
 
 ## UI Graphics
 
@@ -36,3 +37,10 @@
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews  |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
+
+
+## Icons
+
+| Website | Description |
+| - | - |
+| [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
