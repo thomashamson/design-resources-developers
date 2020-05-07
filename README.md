@@ -15,3 +15,23 @@
 | [Uplabs](https://www.uplabs.com/) | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/) | Library of free, high-quality UI kits, icon packs, and mockups. |
 | [UI Kit](https://getuikit.com/) | A lightweight and modular front-end framework |
+
+## Fonts
+
+| Website | Description |
+| - | - |
+| [Google Fonts](https://fonts.google.com/)| Library of around 1000 free licensed font families |
+| [DaFont](https://www.dafont.com/)| Archive of freely downloadable fonts |
+| [Use & Modify](https://usemodify.com/)| Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces |
+| [1001 Free Fonts](https://www.1001freefonts.com/)| I think the name speaks for itself :smirk: |
+| [Font Squirrel](https://www.fontsquirrel.com/)| Font Squirrel scours the internet for high quality, legitimately free fonts |
+| [What Font](http://www.chengyinliu.com/whatfont.html)| Tool for finding the fonts of a website without having to search in the devtools |
+| [Tiff](https://tiff.herokuapp.com/)| A type diff tool that visually contrasts the differences between two fonts. |
+| [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
+| [Fontjoy](https://fontjoy.com/)| Generate font pairing in one click |
+| [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
+| [FontSpark](https://fontspark.app/) | Discover Better Fonts |
+| [FontPair](https://fontpair.co/) | Helps you pair Google Fonts together
+| [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews  |
+| [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
+| [Free Typography](https://freetypography.com/)| A list of high quality fonts |
