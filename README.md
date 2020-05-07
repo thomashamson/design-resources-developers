@@ -2,6 +2,7 @@
 > A personal curated list of design and UI resources for developers inspired by Brad Traversy's "[Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)".
 
 - [UI Graphics](#ui-graphics)
+- [Fonts](#fonts)
 
 ## UI Graphics
 
