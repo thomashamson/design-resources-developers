@@ -5,6 +5,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Design Inspiration](#design-inspiration)
 - [Image Compression](#image-compression)
@@ -70,6 +71,14 @@
 | - | - |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 | [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
+
+## Design Systems & Style Guides
+
+| Website | Description |
+| - | - |
+| [Material Design](https://material.io/)| Google's Material Design |
+| [Primer](https://primer.style/)| Design, build, and create with GitHub’s design system |
+| [SendGrid Style Guide](http://styleguide.sendgrid.com/)| UI library for developing consistent UI/UX at SendGrid  |
 
 ## Online Design Tools
 
