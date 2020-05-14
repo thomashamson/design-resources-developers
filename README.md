@@ -5,6 +5,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [Online Design Tools](#online-design-tools)
 - [Design Inspiration](#design-inspiration)
 - [Image Compression](#image-compression)
 
@@ -69,6 +70,15 @@
 | - | - |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 | [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
+
+## Online Design Tools
+
+| Website | Description |
+| - | - |
+| [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
+| [Pixlr](https://www.pixlr.com/)| Online photo editor |
+| [Octopus](https://octopus.do/)| Sitemap builder |
+| [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
 
 ## Design Inspiration
 
