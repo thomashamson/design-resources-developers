@@ -5,7 +5,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
-- [Downloadable Design Software](#design-inspiration)
+- [Design Inspiration](#design-inspiration)
 - [Image Compression](#image-compression)
 
 ## UI Graphics
