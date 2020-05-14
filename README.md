@@ -5,6 +5,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [Javascript Animation Libraries](#javascript-animation-libraries)
 - [UI Components & Kits](#ui-components--kits)
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
@@ -72,6 +73,15 @@
 | - | - |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 | [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
+
+## Javascript Animation Libraries
+
+| Website | Description |
+| - | - |
+| [Greensock](https://greensock.com/)| A JavaScript library for building high-performance animations that work in every major browser |
+| [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
+| [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
+| [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |
 
 ## UI Components & Kits
 
