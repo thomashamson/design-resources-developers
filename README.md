@@ -5,6 +5,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [Image Compression](#image-compression)
 
 ## UI Graphics
 
@@ -67,3 +68,10 @@
 | - | - |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 | [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
+
+## Image Compression
+
+| Website | Description |
+| - | - |
+| [TinyPNG](https://tinypng.com/)| PNG and JPEG compression
+| [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
