@@ -5,6 +5,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [Downloadable Design Software](#design-inspiration)
 - [Image Compression](#image-compression)
 
 ## UI Graphics
@@ -68,6 +69,26 @@
 | - | - |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 | [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
+
+## Design Inspiration
+
+| Website | Description |
+| - | - |
+| [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
+| [Httpster](https://httpster.net/2020/apr/)| Showcases websites made by people from all over the world |
+| [Microcopy Inspirations](https://www.microcopyinspirations.com/)| Curated collection of UX writing examples, microcopy examples and copywriting examples |
+| [Inspofinds](https://inspofinds.com/)| Latest design work from designers and the design community  |
+| [Design Notes](https://www.designnotes.co/)| Free online resource library for product designers |
+| [Land Book](https://land-book.com/)| Displays a large collection of websites to help find inspiration  |
+| [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
+| [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI |
+| [Codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
+| [SaaS Landing Page](https://saaslandingpage.com/)| Discover the best landing page examples created by top-class SaaS companies |
+| [Pages.xyz](https://www.pages.xyz/)| Curate and discover the best designed web pages |
+| [UI Movement](https://uimovement.com/)| UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs |
+| [Webframe](https://webframe.xyz)| Discover and be inspired by beautiful webapp designs |
+| [Collect UI](http://collectui.com/)| Daily inspiration collected from daily ui archive and beyond. Hand picked, and updating daily. |
+| [Really Good Emails](https://reallygoodemails.com/) | A site offering users a ton of company e-mails from customer service to marketing.  |
 
 ## Image Compression
 
