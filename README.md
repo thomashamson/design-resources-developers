@@ -83,6 +83,13 @@
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 | [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
 
+## CSS Animations
+
+| Website | Description |
+| - | - |
+| [Animate.css](https://animate.style/)| Just-add-water CSS animations |
+| [Hover.css](http://ianlunn.github.io/Hover/)| Hover.css is a CSS animation library designed for use with buttons and other UI elements in your website  |
+
 ## Javascript Animation Libraries
 
 | Website | Description |
