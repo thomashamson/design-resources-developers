@@ -11,7 +11,6 @@
 - [Stock Music & Sound Effects](#stock-music--sound-effects)
 - [Vectors & Clipart](#vectors--clip-art)
 - [Product & Image Mockups](#product--image-mockups)
-- [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
 - [CSS Animations](#css-Animations)
 - [Javascript Animation Libraries](#javascript-animation-libraries)
