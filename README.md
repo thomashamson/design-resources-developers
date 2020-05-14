@@ -17,6 +17,7 @@
 | [Uplabs](https://www.uplabs.com/) | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/) | Library of free, high-quality UI kits, icon packs, and mockups. |
 | [UI Kit](https://getuikit.com/) | A lightweight and modular front-end framework |
+| [Blush](https://blush.design/) | Free customizable illustrations with Figma Plugin |
 
 ## Fonts
 
