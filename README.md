@@ -5,6 +5,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [UI Components & Kits](#ui-components--kits)
 - [Design Systems & Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Design Inspiration](#design-inspiration)
@@ -71,6 +72,14 @@
 | - | - |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 | [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
+
+## UI Components & Kits
+
+| Website | Description |
+| - | - |
+| [Brumm Shadow Maker](https://brumm.af/shadows)| An online tool to make css shadows|
+| [SpinKit](https://tobiasahlin.com/spinkit/)| Simple CSS Spinners|
+| [Moving Letters](https://tobiasahlin.com/moving-letters/)| Animated Text with JavaScript and anime.js|
 
 ## Design Systems & Style Guides
 
