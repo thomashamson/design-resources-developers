@@ -8,7 +8,6 @@
 - [Icon Fonts](#icon-fonts)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
-- [Stock Music & Sound Effects](#stock-music--sound-effects)
 - [Vectors & Clipart](#vectors--clip-art)
 - [Product & Image Mockups](#product--image-mockups)
 - [CSS Frameworks](#css-frameworks)
