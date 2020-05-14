@@ -4,7 +4,7 @@
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)
-- [Icons](#icons)
+- [Icons & SVG](#icons--svg)
 - [Icon Fonts](#icon-fonts)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
@@ -74,7 +74,7 @@
 | [ShadeSwash](https://shadeswash.netlify.app/) | Quickly generate shades of any color |
 | [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |
 
-## Icons
+## Icons & SVG
 
 | Website | Description |
 | - | - |
