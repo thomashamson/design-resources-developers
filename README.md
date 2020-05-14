@@ -83,6 +83,14 @@
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 | [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
 
+## CSS Frameworks
+
+| Website | Description |
+| - | - |
+| [Tailwind CSS](https://tailwindcss.com/)| Low level, utility-first framework |
+| [Bootstrap](https://getbootstrap.com/)| Popular UI framework with tons of components that use both CSS and JS |
+| [Skeleton](http://getskeleton.com/)| Extremely light framework for basic UI elements |
+
 ## CSS Animations
 
 | Website | Description |
