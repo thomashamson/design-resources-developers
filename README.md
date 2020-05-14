@@ -86,6 +86,15 @@
 | - | - |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 
+## Vectors & Clip Art
+
+| Website | Description |
+| - | - |
+| [Vecteezy](https://www.vecteezy.com/)| Find and download free vector art |
+| [Freepik](https://www.freepik.com)| Free vectors, stock photos, PSD and icons |
+| [PNGTree](https://pngtree.com/free-vectors)| png, backgrounds, templates, text effects |
+| [Retro Vectors](http://retrovectors.com/)| Vintage vectors and graphics |
+
 ## Product & Image Mockups
 
 | Website | Description |
