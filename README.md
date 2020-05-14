@@ -78,8 +78,13 @@
 
 | Website | Description |
 | - | - |
-| [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 | [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
+
+## Icon Fonts
+
+| Website | Description |
+| - | - |
+| [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
 
 ## CSS Frameworks
 
