@@ -3,6 +3,7 @@
 
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
+- [Colors](#colors)
 - [Icons](#icons)
 
 ## UI Graphics
@@ -39,6 +40,26 @@
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
 
+## Colors
+
+| Website | Description |
+| - | - |
+| [Colormind.io](http://colormind.io/)| Color palette generator |
+| [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
+| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
+| [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
+| [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
+| [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavours |
+| [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors |
+| [Happyhues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects by Mackenzie Child |
+| [Color Hunt](https://colorhunt.co/)| A free and open platform for color inspiration with thousands of trendy hand-picked color palettes |
+| [Gradient Hunt](https://gradienthunt.com/)| A free and open platform for gradient inspiration with thousands of trendy hand-picked color gradients |
+| [Web Gradients](https://webgradients.com/)| A free website to find good css gradients |
+| [CSS Gradient](https://cssgradient.io/)| A free website to make custome gradient and some examples of gradient |
+| [gradienta](https://gradienta.io/)| A pure css and jpg gradients |
+| [UI Gradients](https://uigradients.com/)| UI gradients color generator |
+| [ShadeSwash](https://shadeswash.netlify.app/) | Quickly generate shades of any color |
+| [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |
 
 ## Icons
 
