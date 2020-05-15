@@ -84,7 +84,14 @@
 
 | Website | Description |
 | - | - |
-| [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit. |
+| [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit  |
+| [Line Awesome](https://icons8.com/line-awesome)| Swap in replacement of Font Awesome with modern line icons |
+| [Material Icons](https://material.io/resources/icons/)| Material design icon library |
+| [IonIcons](http://ionicons.com/)| Beautifully crafted open source icons from Ionic team |
+| [Fontisto Icons](https://fontisto.com/)| Fontisto the iconic font and css toolkit · 616+ free icons  |
+| [Boxicons](https://boxicons.com/)| Boxicons is a free collection of carefully crafted open source icons  |
+| [Icofont](https://icofont.com/)| 2100+ free icons to spice up your creative designs  |
+| [Jam Icons](https://jam-icons.com/) | 890+ handcrafted icons to make your web app awesome |
 
 ## Stock Photos
 
