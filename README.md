@@ -74,18 +74,17 @@
 | [ShadeSwash](https://shadeswash.netlify.app/) | Quickly generate shades of any color |
 | [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |
 
-## Icons & SVG
-
-| Website | Description |
-| - | - |
-| [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
-
-## Icon Fonts
+## Icons, Icon Fonts & SVG
 
 | Website | Description |
 | - | - |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit  |
 | [Line Awesome](https://icons8.com/line-awesome)| Swap in replacement of Font Awesome with modern line icons |
+| [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
+| [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats  |
+| [Iconsout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place  |
+| [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections |
+| [UseAnimations](https://useanimations.com/) | Free Animated Icons in SVG and Json Format(for lottie)  |
 | [Material Icons](https://material.io/resources/icons/)| Material design icon library |
 | [IonIcons](http://ionicons.com/)| Beautifully crafted open source icons from Ionic team |
 | [Fontisto Icons](https://fontisto.com/)| Fontisto the iconic font and css toolkit · 616+ free icons  |
