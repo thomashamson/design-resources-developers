@@ -24,6 +24,7 @@
 | - | - |
 | [UI Design Daily](https://uidesigndaily.com/) | Awesome UI Components of all types |
 | [100 Daily UI](https://100dailyui.webflow.io/) | Free Figma library of products, elements, and screens. |
+| [Hero Patterns](https://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects. |
 | [Paaatterns](https://products.ls.graphics/paaatterns/) | Free collection of beautiful patterns for all vector formats |
 | [Undraw.co](https://undraw.co/) | Open-source illustrations for any idea you can imagine and create. |
 | [UI Space](https://uispace.net/) | Thousands of great UI freebies |
@@ -77,6 +78,7 @@
 
 | Website | Description |
 | - | - |
+| [Iconify (Figma Plugin)](https://www.figma.com/community/plugin/735098390272716381/Iconify)| More than 60 icon sets containing over 50,000 icons  |
 | [Font Awesome](https://fontawesome.com/)| The web's most popular icon set and toolkit  |
 | [Line Awesome](https://icons8.com/line-awesome)| Swap in replacement of Font Awesome with modern line icons |
 | [Get Waves](https://getwaves.io/)| Make some waves with this SVG waves generator |
