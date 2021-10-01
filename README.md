@@ -137,7 +137,6 @@
 
 | Website | Description |
 | - | - |
-| [Tailwind CSS](https://tailwindcss.com/)| Low level, utility-first framework |
 | [Bootstrap](https://getbootstrap.com/)| Popular UI framework with tons of components that use both CSS and JS |
 | [Skeleton](http://getskeleton.com/)| Extremely light framework for basic UI elements |
 
