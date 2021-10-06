@@ -156,6 +156,7 @@
 
 | Website | Description |
 | - | - |
+| [particles.js](https://vincentgarreau.com/particles.js/)| A lightweight JavaScript library for creating particles |
 | [Greensock](https://greensock.com/)| A JavaScript library for building high-performance animations that work in every major browser |
 | [three.js](https://github.com/mrdoob/three.js/)| An easy to use, lightweight, 3D library with a default WebGL renderer. |
 | [wow.js](https://wowjs.uk/)| Reveal Animations When You Scroll. |
