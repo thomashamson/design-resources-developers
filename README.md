@@ -55,6 +55,7 @@
 
 | Website | Description |
 | - | - |
+| [Ignyte - The Psychology of Color](https://www.ignytebrands.com/wp-content/uploads/the-psychology-of-color-in-branding-ignyte.pdf)| Color palettes and emotive guidelines |
 | [Colormind.io](http://colormind.io/)| Color palette generator |
 | [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
 | [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
