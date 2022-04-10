@@ -1,5 +1,4 @@
-# Resources for Developers (Design and UI)
-> A personal watered-down list of design and UI resources for developers inspired by Brad Traversy's "[Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)".
+# Contents
 
 - [UI Graphics](#ui-graphics)
 - [Typography](#typography)
