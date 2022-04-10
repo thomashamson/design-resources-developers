@@ -181,6 +181,7 @@
 
 | Website | Description |
 | - | - |
+| [Type Scale](https://type-scale.com/)| Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts. |
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
 | [Pixlr](https://www.pixlr.com/)| Online photo editor |
 | [Octopus](https://octopus.do/)| Sitemap builder |
