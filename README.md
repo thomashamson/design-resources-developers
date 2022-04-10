@@ -2,7 +2,7 @@
 > A personal watered-down list of design and UI resources for developers inspired by Brad Traversy's "[Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)".
 
 - [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
+- [Typography](#typography)
 - [Colors](#colors)
 - [Icons, Icon Fonts & SVG](#icons-icon-fonts--svg)
 - [Stock Photos](#stock-photos)
@@ -33,7 +33,7 @@
 | [UI Kit](https://getuikit.com/) | A lightweight and modular front-end framework |
 | [Blush](https://blush.design/) | Free customizable illustrations with Figma Plugin |
 
-## Fonts
+## Typography
 
 | Website | Description |
 | - | - |
