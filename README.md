@@ -14,8 +14,8 @@
 - [Javascript Animation Libraries](#javascript-animation-libraries)
 - [UI Components & Kits](#ui-components--kits)
 - [Design Systems & Style Guides](#design-systems--style-guides)
-- [Online Design Tools](#online-design-tools)
-- [Design Inspiration](#design-inspiration)
+- [Tools](#online-design-tools)
+- [Inspiration](#design-inspiration)
 - [Image Compression](#image-compression)
 
 ## UI Graphics
@@ -177,7 +177,7 @@
 | [Primer](https://primer.style/)| Design, build, and create with GitHub’s design system |
 | [SendGrid Style Guide](http://styleguide.sendgrid.com/)| UI library for developing consistent UI/UX at SendGrid  |
 
-## Online Design Tools
+## Tools
 
 | Website | Description |
 | - | - |
@@ -187,7 +187,7 @@
 | [Octopus](https://octopus.do/)| Sitemap builder |
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
 
-## Design Inspiration
+## Inspiration
 
 | Website | Description |
 | - | - |
