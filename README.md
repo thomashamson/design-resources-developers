@@ -16,6 +16,7 @@
 - [Tools](#tools)
 - [Inspiration](#inspiration)
 - [Image Compression](#image-compression)
+- [Chrome Extensions](#chrome-extensions)
 
 ## UI Graphics
 
@@ -213,3 +214,16 @@
 | - | - |
 | [TinyPNG](https://tinypng.com/)| PNG and JPEG compression
 | [Compressor.io](https://compressor.io/)| JPEG, PNG, GIF, SVG Compression |
+
+## Chrome Extensions
+
+| Website | Description |
+| - | - |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | Identifying fonts.
+| [WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) | Discover what runs a website.
+| [daily.dev](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied) | Design and programming news.
+| [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) | Makes JSON easy to read in the browser.
+| [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) | Inserts CSS into the page, outlining HTML elements.
+| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Eyedropper and other goodies.
+| [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb) | Quickly generate Lorem Ipsum text.
+| [Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) | Capture a screenshot of your current page.
