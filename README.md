@@ -14,8 +14,8 @@
 - [Javascript Animation Libraries](#javascript-animation-libraries)
 - [UI Components & Kits](#ui-components--kits)
 - [Design Systems & Style Guides](#design-systems--style-guides)
-- [Tools](#online-design-tools)
-- [Inspiration](#design-inspiration)
+- [Tools](#tools)
+- [Inspiration](#inspiration)
 - [Image Compression](#image-compression)
 
 ## UI Graphics
