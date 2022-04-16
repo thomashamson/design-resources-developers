@@ -1,6 +1,7 @@
 # Contents
 
 - [UI Graphics](#ui-graphics)
+- [Illustrations](#illustrations)
 - [Typography](#typography)
 - [Colors](#colors)
 - [Icons, Icon Fonts & SVG](#icons-icon-fonts--svg)
@@ -26,12 +27,22 @@
 | [100 Daily UI](https://100dailyui.webflow.io/) | Free Figma library of products, elements, and screens. |
 | [Hero Patterns](https://www.heropatterns.com/) | A collection of repeatable SVG background patterns for you to use on your web projects. |
 | [Paaatterns](https://products.ls.graphics/paaatterns/) | Free collection of beautiful patterns for all vector formats |
-| [Undraw.co](https://undraw.co/) | Open-source illustrations for any idea you can imagine and create. |
 | [UI Space](https://uispace.net/) | Thousands of great UI freebies |
 | [Uplabs](https://www.uplabs.com/) | High-quality design resources (Free & Premium)                     |
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/) | Library of free, high-quality UI kits, icon packs, and mockups. |
 | [UI Kit](https://getuikit.com/) | A lightweight and modular front-end framework |
 | [Blush](https://blush.design/) | Free customizable illustrations with Figma Plugin |
+
+## Illustrations
+
+| Website | Description |
+| - | - |
+| [Undraw.co](https://undraw.co/) | Open-source illustrations for any idea you can imagine and create. |
+| [DrawKit](https://drawkit.com/) | Hand-drawn vector illustration and icon resources, perfect for your next project. |
+| [Ouch](https://icons8.com/illustrations) | Free vector and 3D illustrations. Trendy. Covers all subjects. |
+| [Lukasz Adam](https://lukaszadam.com/illustrations) | Free illustrations. |
+| [Humaaans](https://www.humaaans.com/) | Mix-&-match illustrations of people with a design library. |
+| [Freepik](https://www.freepik.com/search?query=illustrations&type=vector) | Freepik search for illustrations. |
 
 ## Typography
 
