@@ -192,6 +192,7 @@
 
 | Website | Description |
 | - | - |
+| [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)| Contrast checker to evaluate links that are identified using color alone. |
 | [Type Scale](https://type-scale.com/)| Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts. |
 | [Canva](https://www.canva.com/)| Create beautiful designs (Free & Paid) |
 | [Pixlr](https://www.pixlr.com/)| Online photo editor |
