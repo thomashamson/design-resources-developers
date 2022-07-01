@@ -66,6 +66,7 @@
 
 | Website | Description |
 | - | - |
+| [Picular](https://picular.co/)| A rocket fast primary color generator using Google's image search. |
 | [Ignyte - The Psychology of Color](https://www.ignytebrands.com/wp-content/uploads/the-psychology-of-color-in-branding-ignyte.pdf)| Color palettes and emotive guidelines |
 | [Colormind.io](http://colormind.io/)| Color palette generator |
 | [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
