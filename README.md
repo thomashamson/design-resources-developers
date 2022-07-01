@@ -150,7 +150,7 @@
 
 | Website | Description |
 | - | - |
-| [Bootstrap](https://getbootstrap.com/)| Popular UI framework with tons of components that use both CSS and JS |
+| [Tailwind](https://tailwindcss.com/)| Rapidly build modern websites without ever leaving your HTML. |
 | [Skeleton](http://getskeleton.com/)| Extremely light framework for basic UI elements |
 
 ## CSS Animations
